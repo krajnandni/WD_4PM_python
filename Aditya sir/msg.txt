@@ -1,0 +1,3 @@
+python is a funny language
+first released in 1991 by guido van rossum
+bye
